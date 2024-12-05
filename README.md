@@ -1,5 +1,5 @@
-# Complete Networking Zero-to-Hero Course 
-Complete Networking Zero to Hero Course with real life examples. I will be covering below Networking Concepts in this complete course. Stay tuned and Keep Learning!
+# Complete Networking Complete Course 
+Complete Networking Complete Course with real life examples. I will be covering below Networking Concepts in this complete course. Stay tuned and Keep Learning!
 <hr>
 
 ### TOPIC 1: OSI MODEL AND TCP/IP MODEL  <hr>
